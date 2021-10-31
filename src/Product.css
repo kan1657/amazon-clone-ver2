@@ -27,6 +27,7 @@
   margin-top: 10px;
   border-color: #a88734;
   color: #111;
+  cursor: pointer;
 }
 
 .product__info {
